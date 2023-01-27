@@ -1,0 +1,188 @@
+body {
+
+}
+
+h1 {
+    text-align: center;
+    background: orange;
+    color: white;
+    margin-left: 38%;
+    margin-right: 38%;
+    border-radius: 22px;
+    border: 2px solid black;
+    text-shadow: black 0 0 10px;
+
+}
+
+
+
+.prava {
+    color: gray;
+    text-align: center;
+    line-height: 0%;
+}
+
+
+.kino {
+    text-align: center;
+    
+}
+
+.blok1 div
+{
+    float: left;   
+    height: 250px;
+    width: 25%;
+    border: 1px solid white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.major a {
+    display: block;
+    height: 100%;
+    background-image: url(major.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+.chest a {
+    display: block;
+    height: 100%;
+    background-image: url(chest.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+
+.arest a {
+    display: block;
+    height: 100%;
+    background-image: url(arest.jpg);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+.comfort a{
+    display: block;
+    height: 100%;
+    background-image: url(comfort.jpg);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+.music {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+.blok2 div
+{
+    float: left;   
+    height: 250px;
+    width: 25%;
+    border: 1px solid white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
+
+
+.factor2 a {
+    display: block;
+    height: 100%;
+    background-image: url(factor2.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+.Zvery a {
+    display: block;
+    height: 100%;
+    background-image: url(zvery.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+.vverh a {
+    display: block;
+    height: 100%;
+    background-image: url(vverh.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+.maxsim a {
+    display: block;
+    height: 100%;
+    background-image: url(maxsim.jpg);
+    width: 100%;
+    border-radius: 22px;
+}
+
+
+.games {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.blok3 div
+{
+    float: left;   
+    height: 250px;
+    width: 25%;
+    border: 1px solid white;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    
+
+}
+
+.tanki a {
+    display: block;
+    height: 100%;
+    background-image: url(tanki.jpg);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+.fifa a {
+    display: block;
+    height: 100%;
+    background-image: url(fifa.jpg);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+.gta a {
+    display: block;
+    height: 100%;
+    background-image: url(gta.jpg);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+
+.cs a {
+    display: block;
+    height: 100%;
+    background-image: url(cs.png);
+    width: 100%;
+    border-radius: 22px;
+
+}
+
+
+hr {
+
+    height: 2px;
+    border-radius: 22px;
+}
